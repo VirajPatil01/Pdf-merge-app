@@ -1,0 +1,11 @@
+
+
+Open shell on replit and after that 
+
+
+write command 
+
+~node server.js
+
+
+its simply run app and merge your app succesfully
